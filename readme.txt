@@ -1,4 +1,4 @@
-Major 1, Group 5: BongBoys
+Major 1, Group 5: BonBoys
 
 
 Description:
